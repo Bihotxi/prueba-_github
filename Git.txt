@@ -1,2 +1,3 @@
 creación del archivo
 modificación del archivo en remoto
+modificación después de la ayuda de Aida
