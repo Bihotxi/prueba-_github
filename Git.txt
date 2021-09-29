@@ -2,3 +2,4 @@ creación del archivo
 modificación del archivo en remoto
 modificación después de la ayuda de Aida
 cambio desde remoto tras comprobar que era lo del commit
+modificación al día siguiente para recordar
