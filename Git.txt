@@ -3,3 +3,4 @@ modificación del archivo en remoto
 modificación después de la ayuda de Aida
 cambio desde remoto tras comprobar que era lo del commit
 modificación al día siguiente para recordar
+modificación al día siguiente desde la web tras comprobar que funciona bien.
